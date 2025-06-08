@@ -33,14 +33,4 @@ Una vez descargado, colócalarlo en carpeta Modelo:
 ## Configuración del correo.
 En el main colocar correo y contraseña para enviar captura de movimiento detectado.
 
-## 🗂️ Estructura del proyecto
-DeteccionPersonasYOLO/
-│
-├── Modelo/
-│ ├── yolov3.cfg # Configuración del modelo YOLOv3
-│ ├── yolov3.weights # Pesos preentrenados (descargados de la web oficial)
-│ └── coco.names # Clases reconocidas por el modelo (incluye "person")
-│
-├── main.py # Código principal del sistema
-└── README.md # Documentación del proyecto
 
